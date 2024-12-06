@@ -1,4 +1,4 @@
-<h4 align="center"><samp> Hi there 👋  welcome to my Github! I'm a Computer Science student.</samp></h4>
+<h4 align="center"><samp> Hi there 👋  welcome to my Github! I'm a Computer Science student</samp></h4>
 
 <!--
 **chromody/chromody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
