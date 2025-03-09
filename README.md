@@ -30,3 +30,5 @@ Here are some ideas to get you started:
 Check out my repos ⬇️  
   </samp>
 </p>
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=chromody&hide=stars&theme=tokyonight&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
