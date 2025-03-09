@@ -37,4 +37,4 @@ Check out my repos ⬇️
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chromody)
 
-![GitHub Contribution Graph](dist/github-snake.svg)
+![GitHub Contribution Graph](./dist/github-snake.svg)
