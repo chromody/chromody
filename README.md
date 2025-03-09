@@ -18,6 +18,8 @@ Here are some ideas to get you started:
   <img width="250" src="cao.gif">
 </p>
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bridgeshayes&hide=stars&theme=tokyonight&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 <p align="center">
 <a href= "https://dev.to/ari_hacks"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
