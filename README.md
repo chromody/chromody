@@ -33,9 +33,8 @@ Check out my repos ⬇️
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=chromody&hide=stars&theme=tokyonight&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Contribution Graph](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=chromody)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chromody)
 
+![GitHub Contribution Graph](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
